@@ -1,0 +1,35 @@
+Meta/Facebook sees that likes are up 10% year over year, why could this be?
+
+This problem statement can be categorized in Applied Data Category. However, a few questions needs to be answered before proceeding futher:
+
+- Q1.The 'Likes' are concerned to which social category of Facebook? For example, Posts, Reels, groups, products, etc.
+- Q2.What does 'year' refer to? Is it annually for business year?
+- Q3. Did Facebook launch new features that involve active involvement?
+- Q4.Were there any market initiatives that attracted a good number of audience?
+- Q5.Which demographic category is increasing the likes: people, location, region, etc. ?
+- Q6.What type of content is being liked the most?
+- Q7.What actions are users taking after liking some content?
+- Q8. Is there any migration, i.e. TikTok to Facebook ?
+- Q9. Are there any external factors like festivals, event, etc. affecting the user interaction with the platform, and hence likes ?
+
+Some edge cases could also affect the likes increase:
+
+- Q1. Could the increase in likes be driven by bots/ fake accounts?
+- Q2. Are there any specific times when likes are more, like holidays, special occasions, that may be skewing the year-over-year comaprison?
+- Q3. Is there an increase in content creators on the platform?
+- Q4. Are influencers or brands engaging in large-scale paid promotions or challenges that could result in a temporary spike in likes?
+- Q5.Did some users or brands find a loophole to game the algorithm, artificially inflating their likes?
+
+To know why an increase in 10% likes, lets illustrate it through the 5 why's strategy:
+- Root cause: Why a 10% increase in likes:
+- Why are likes up by 10%? → More content is being liked.
+- Why is more content being liked? → The algorithm is prioritizing more engaging posts.
+- Why is the algorithm doing this? → A recent update improved post visibility.
+- Why was the update made? → To enhance user experience based on feedback and data analysis.
+
+Similarly, the following data can be collected for strong affirmations:
+
+1. **Time Periods**: Compare the specific time periods (e.g., Q3 2023 vs. Q3 2024) to understand seasonal or external influences.
+2. **User Segmentation**: Break down likes by different demographic groups (age, location, device usage) to identify patterns or specific groups driving the increase.
+3. **Content Type**: Examine whether particular types of content (videos, stories, ads, etc.) are receiving more likes, suggesting a shift in user engagement preferences.
+4. **Platform Segmentation**: Look at whether certain Meta platforms (Facebook, Instagram, Messenger) are driving the growth.
